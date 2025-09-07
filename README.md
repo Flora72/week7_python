@@ -51,7 +51,7 @@ week7/
 python3 index.py
 ```
 
-On first run, `matplotlib` may build a font cache—this is normal and only happens once.
+On first run, `matplotlib` may build a font cache,this is normal and only happens once.
 
 ---
 
